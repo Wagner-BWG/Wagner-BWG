@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <details>
-  # <summary><strong>Teste title</strong></summary><br />
+  <strong>Teste title</strong><br />
 
   Test text
 </details>
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+something somethin
 -->
