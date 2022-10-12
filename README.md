@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<details>
+  <summary><strong>Teste title</strong></summary>
+
+  Test text
+</details>
+
 <!--
 **Wagner-BWG/Wagner-BWG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
