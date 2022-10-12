@@ -1,7 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
 <details>
-  <strong>Teste title</strong><br />
+  <summary><strong>Teste title</strong></summary><br />
 
   Test text
 </details>
