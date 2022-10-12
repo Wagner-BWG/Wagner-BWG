@@ -4,6 +4,8 @@
 Test text
 </details>
 
+[![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wagner-BWG)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Wagner-BWG/Wagner-BWG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
