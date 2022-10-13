@@ -38,7 +38,7 @@ Se você tiver um projeto em que eu possa colaborar, adoraria ouvi-lo. E se voc�
   
 Você pode entrar em contato comigo em:
   
-<a href="mailto:wagner_mbarbosa@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail. Na verdade, é um endereço hotmail mas o badge do outlook's não era muito bonito :(" /></a>  <a href="https://www.linkedin.com/in/wagnermbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://whatsa.me/5513997414343/?t=Greetings%20Wagner.%20I%20just%20got%20your%20contact%20from%20your%20GitHub%20profile."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp messenger" /></a>
+<a href="mailto:wagner_mbarbosa@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail. Na verdade, é um endereço hotmail mas o badge do outlook's não era muito bonito :(" /></a>  <a href="https://www.linkedin.com/in/wagnermbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://whatsa.me/5513997414343/?t=Olá%20Wagner.%20Eu%20acabei%20de%20pegar%20seu%contato%20do%20seu%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp messenger" /></a>
 
 </details>
 
