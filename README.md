@@ -2,28 +2,44 @@
 
 <details><summary><strong>To read this profile in English 🇺🇸, click here!</strong></summary><br />
 
-I'm Wagner! I always loved technology, creating things, and tackling in challenges. Once a mechanical engineer, now trailing my path into a software developer. How did that happened? I guess it started as a hobby, learning to code to make my small indie game prototypes and suddenly realizing I feel much more fulfilment coding than doing anything most mec engineering jobs out there offer.
+I'm Wagner! I always loved technology, creating things, and tackling in challenges. Once a mechanical engineer, now trailing my path as software developer. How did that happened? I guess it started as a hobby, learning to code to make my small indie game prototypes and suddenly realizing I feel much more fulfilment coding than doing anything most mec engineering jobs out there offer.
   
 Let's keep this simple and efficient, shall we?
   
-* I'm currently studying backend technologies. Mainly Node.js and Express. Also learning to work with MongDB and TypeScript at the moment.
-* I also have knowledge of front-end,specially in React.
-* I love videogames and pets. All kinds of videogames and all kinds of pets... Except sports games and pet cockroaches.
-* I make some mean burgers! For carnivores and for vegans!
-* I <strong>always</strong> happy help.
+* :seedling: I'm currently studying backend 🧠 technologies. Mainly Node.js and Express. Also learning to work with MongDB and TypeScript at the moment.
+* :deciduous_tree: I also have knowledge of front-end :eyes:, specially in React.
+* 💙 I love videogames :video_game: and pets 🐶 🐱. All kinds of videogames :space_invader::suspect: and all kinds of pets 🐰🦎. Except sports games ⚽️ and pet cockroaches 🪳.
+* 👨‍🍳 I make some mean 🍔 burgers! For 🥩 carnivores and for 🥗 vegans!
+* 💪 I <strong>always</strong> happy 🤝 help.
   
-If you have a project I can collaborate on, I would love to hear it. And i fyou have a job for me, I would love even more. :D
+If you have a project I can collaborate on, I would love to hear it. And if you have a job for me, I would love even more. :D
   
 You can reach out to me on:
   
-<a href="mailto:wagner_mbarbosa@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="It's actually a hotmail address, but outlook's badge doesn't look very good :(" /></a>  <a href="https://www.linkedin.com/in/wagnermbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://whatsa.me/5513997414343/?t=Greetings%20Wagner.%20I%20just%20got%20your%20contact%20from%20your%20GitHub%20profile."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp messenger" /></a>
+<a href="mailto:wagner_mbarbosa@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail. It's actually a hotmail address, but outlook's badge doesn't look very good :(" /></a>  <a href="https://www.linkedin.com/in/wagnermbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://whatsa.me/5513997414343/?t=Greetings%20Wagner.%20I%20just%20got%20your%20contact%20from%20your%20GitHub%20profile."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp messenger" /></a>
   
 </details>
 
 # Olá habitante da internet! 👋
 
 <details><summary><strong>Para ler esse perfil em português 🇧🇷, clique aqui!</strong></summary><br />
-Texto teste
+
+Eu sou Wagner! Sempre adorei tecnologia, criar coisas e enfrentar desafios. Uma vez um engenheiro mecânico, agora trilho meu caminho como um desenvolvedor de software. Como isso aconteceu? Acho que tudo começou como um hobby, aprendendo a codar para fazer meus pequenos protótipos de jogos indie e de repente percebi que sinto muito mais satisfação em codando do que fazeendo qualquer coisa que a maioria dos trabalhos de engenharia mecânica oferecem por ai.
+  
+Bom, vamos manter isso simples e eficiênte, né?
+  
+* :seedling: Atualmente estou estudando tecnologias de backend 🧠. Principalmente Node.js e Express. E no momento, também aprendendo a trabalhar com MongDB e TypeScript.
+* :deciduous_tree: Também tenho conhecimento de front-end :eyes:, especialmente em React.
+* 💙 Adoro videogames :video_game: e animais de estimação 🐶 🐱. Todos os tipos de videogames :space_invader::suspect: e todos os tipos de animais de estimação 🐰🦎. Exceto jogos de esportes ⚽️ e baratas de estimação 🪳.
+* 👨‍🍳 Eu faço uns 🍔 hambúrgueres da hora! Tanto para 🥩 carnístas quanto para 🥗 veganos!
+* 💪 Eu <strong>sempre</strong> estou feliz 🤝 em ajudar.
+  
+Se você tiver um projeto em que eu possa colaborar, adoraria ouvi-lo. E se você tiver um emprego para mim, eu adoraria ainda mais. :D
+  
+Você pode entrar em contato comigo em:
+  
+<a href="mailto:wagner_mbarbosa@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail. Na verdade, é um endereço hotmail mas o badge do outlook's não era muito bonito :(" /></a>  <a href="https://www.linkedin.com/in/wagnermbarbosa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://whatsa.me/5513997414343/?t=Greetings%20Wagner.%20I%20just%20got%20your%20contact%20from%20your%20GitHub%20profile."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp messenger" /></a>
+
 </details>
 
 
@@ -35,18 +51,3 @@ Texto teste
 [![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wagner-BWG&theme=github_dark&show_icons=true&cout_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-BWG&layout=compact&theme=github_dark&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-<!--
-**Wagner-BWG/Wagner-BWG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-something somethin
--->
