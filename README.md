@@ -50,7 +50,7 @@ Você pode entrar em contato comigo em:
 Projects:
 
 |Trybe Futebol Clube|
-|-------------------|
+|:-----------------:|
 |TypeScript, Node.js, MySQL, Sequelize|
 |<img src="https://raw.githubusercontent.com/Wagner-BWG/typescript-tryber-fc/main/app_screenshot.png" width="200px" style="max-widith: 100%;">|
 
