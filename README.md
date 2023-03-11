@@ -49,10 +49,10 @@ Você pode entrar em contato comigo em:
 
 Projects:
 
-|Trybe Futebol Clube|
+|[Trybe Futebol Clube](https://github.com/Wagner-BWG/typescript-tryber-fc)|
 |:-----------------:|
 |TypeScript, Node.js, MySQL, Sequelize|
-|<img src="https://raw.githubusercontent.com/Wagner-BWG/typescript-tryber-fc/main/app_screenshot.png" width="200px" style="max-widith: 100%;">|
+|[<img src="https://raw.githubusercontent.com/Wagner-BWG/typescript-tryber-fc/main/app_screenshot.png" width="200px" style="max-widith: 100%;">](https://github.com/Wagner-BWG/typescript-tryber-fc)|
 
 [![Wagner's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wagner-BWG&theme=github_dark&show_icons=true&cout_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wagner-BWG&layout=compact&theme=github_dark&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
